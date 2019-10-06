@@ -1,0 +1,4 @@
+com\java\user\Application.class
+com\java\user\controller\UserController.class
+com\java\user\model\UserRepository.class
+com\java\user\model\User.class
